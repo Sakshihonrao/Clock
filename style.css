@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-image: url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141841617/original/9dd7bbeca7152f499a5b00b7abb58f40b53fcc23/create-an-animated-gif-for-you.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.container{
+	height: 200px;
+	width: 700px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 33%;
+	background: transparent;
+	color: black;
+	font-family: sans-serif;
+	border:dashed;
+
+}
+h1{
+	font-size: 100px;
+}
+.unit{
+	color:darkgreen;
+	font-family: sans-serif;
+	position: absolute;
+	top: 200px;
+	left: 35%;
+	font-size: 35px;
+}
